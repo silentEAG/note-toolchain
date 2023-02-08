@@ -1,0 +1,3 @@
+[submodule "mkdocs-navtoc-plugin"]
+	path = mkdocs-navtoc-plugin
+	url = https://github.com/silentEAG/mkdocs-navtoc-plugin
