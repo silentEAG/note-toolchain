@@ -1,7 +1,6 @@
 [submodule "mkdocs-navtoc-plugin"]
 	path = mkdocs-navtoc-plugin
 	url = https://github.com/silentEAG/mkdocs-navtoc-plugin
-
 [submodule "mkdocs-changelog-plugin"]
 	path = mkdocs-changelog-plugin
 	url = https://github.com/silentEAG/mkdocs-changelog-plugin
